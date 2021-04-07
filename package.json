@@ -1,7 +1,13 @@
 {
   "name": "maxleon.net",
-  "version": "0.1.0",
+  "description": "Max Leon's Portfolio Site",
+  "version": "1.0.0",
   "private": true,
+  "author": "Max Leon <max@maxleon.net>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m-leon/maxleon.net"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
